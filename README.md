@@ -30,4 +30,12 @@ I'm diving into the data to uncover how annual members and casual riders use Cyc
 
 ## Prepare
 ### Data source
-use of Cyclistic’s historical trip data to analyze and identify trends from Jan 2021to Dec 2021 from [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html). It is made available by Motivate International Inc. under this [license](https://www.divvybikes.com/data-license-agreement)
+use of Cyclistic’s historical trip data to analyze and identify trends from Jan 2021to Dec 2021 from [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html). It is made available by Motivate International Inc. under this [license](https://www.divvybikes.com/data-license-agreement).
+
+While we have access to public bike usage data, privacy regulations prevent us from linking personal information. This means we cannot directly connect pass purchases to rider demographics or specific locations.
+
+### Data OrganiZation
+The dataset comprises 12 monthly files (YYYYMM-divvy-tripdata), each containing detailed information on individual rides, such as ride ID, bike type, start/end times, station names/IDs, locations, and membership status.
+
+## Process
+
