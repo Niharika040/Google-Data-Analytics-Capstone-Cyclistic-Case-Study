@@ -38,4 +38,6 @@ While we have access to public bike usage data, privacy regulations prevent us f
 The dataset comprises 12 monthly files (YYYYMM-divvy-tripdata), each containing detailed information on individual rides, such as ride ID, bike type, start/end times, station names/IDs, locations, and membership status.
 
 ## Process
-
+To accommodate the large Cyclistic dataset (over 5.6 million rows), we'll use BigQuery to combine and clean the data. Excel's row limit of 1,048,576 makes it unsuitable for this task.
+### Combining the data:
+Query for cobining: Data 
