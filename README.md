@@ -12,4 +12,4 @@ Cyclistic, a bike-sharing pioneer, offers a fleet of 5,800+ bikes across 600 sta
 
 To fuel future growth, Cyclistic's marketing team aims to convert casual riders into loyal annual members. By understanding the nuances between these two groups, the team will tailor effective digital marketing campaigns.
 
-## Scenario
+### Scenario
