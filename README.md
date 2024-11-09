@@ -13,3 +13,4 @@ Cyclistic, a bike-sharing pioneer, offers a fleet of 5,800+ bikes across 600 sta
 To fuel future growth, Cyclistic's marketing team aims to convert casual riders into loyal annual members. By understanding the nuances between these two groups, the team will tailor effective digital marketing campaigns.
 
 ### Scenario
+As a junior data analyst on Cyclistic's marketing team, I'm tasked with analyzing historical bike trip data to identify differences between casual riders and annual members. The goal is to inform a new marketing strategy focused on converting casual riders into annual memberships. To gain executive approval, our recommendations must be supported by strong data insights and visually compelling visualizations.
