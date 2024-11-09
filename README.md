@@ -16,3 +16,14 @@ To fuel future growth, Cyclistic's marketing team aims to convert casual riders 
 As a junior data analyst on Cyclistic's marketing team, I'm tasked with analyzing historical bike trip data to identify differences between casual riders and annual members. The goal is to inform a new marketing strategy focused on converting casual riders into annual memberships. To gain executive approval, our recommendations must be supported by strong data insights and visually compelling visualizations.
 
 ## Ask
+
+### Business Task
+Create strategies to transform casual riders into loyal members.
+
+### Analysis question
+Three key questions will shape our future marketing strategy:
+1. What are the key differences in bike usage between annual members and casual riders?
+2. What motivates casual riders to purchase annual memberships?
+3. How can digital media be leveraged to convert casual riders into members?
+   
+I'm diving into the data to uncover how annual members and casual riders use Cyclistic bikes differently.
