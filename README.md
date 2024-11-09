@@ -42,18 +42,3 @@ To accommodate the large Cyclistic dataset (over 5.6 million rows), we'll use Bi
 ### Combining the data:
 Query for cobining: [Dataexp](https://github.com/Niharika040/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/64df502f4d8c59d807cb6333c6cf856e944859eb/02.Dataexp.sql)
 
-Observations:  
-1. The table below shows the all column names and their data types. The __ride_id__ column is our primary key.  
-
-   ![image](https://user-images.githubusercontent.com/125132307/226139161-c5209861-7542-4ad6-8d9a-ce0115086e4d.png)  
-
-2. The following table shows number of __null values__ in each column.  
-   
-   ![image](https://user-images.githubusercontent.com/125132307/226182623-1f3378b1-c4b2-403e-8a41-7916aacd3666.png)
-
-   Note that some columns have same number of missing values. This may be due to missing information in the same row i.e. station's name and id for the same station and latitude and longitude for the same ending station.  
-3. As ride_id has no null values, let's use it to check for duplicates.  
-
-   ![image](https://user-images.githubusercontent.com/125132307/226181500-38f9b3ca-811d-4612-87ea-87b6d1d3843e.png)
-
-   There are no __duplicate__ rows in the data. 
