@@ -27,3 +27,7 @@ Three key questions will shape our future marketing strategy:
 3. How can digital media be leveraged to convert casual riders into members?
    
 I'm diving into the data to uncover how annual members and casual riders use Cyclistic bikes differently.
+
+## Prepare
+### Data source
+use of Cyclistic’s historical trip data to analyze and identify trends from Jan 2021to Dec 2021 from [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html). It is made available by Motivate International Inc. under this [license](https://www.divvybikes.com/data-license-agreement)
