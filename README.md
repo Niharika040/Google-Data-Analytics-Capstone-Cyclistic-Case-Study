@@ -8,3 +8,6 @@ Data Source:
 
 ## Background
 ### Cyclistic
+Cyclistic, a bike-sharing pioneer, offers a fleet of 5,800+ bikes across 600 stations. Its inclusive approach, with options like reclining bikes and tricycles, caters to a diverse rider base. While many use it for leisure, a substantial portion relies on Cyclistic for daily commutes.
+
+To fuel future growth, Cyclistic's marketing team aims to convert casual riders into loyal annual members. By understanding the nuances between these two groups, the team will tailor effective digital marketing campaigns.
