@@ -40,5 +40,5 @@ The dataset comprises 12 monthly files (YYYYMM-divvy-tripdata), each containing 
 ## Process
 To accommodate the large Cyclistic dataset (over 5.6 million rows), we'll use BigQuery to combine and clean the data. Excel's row limit of 1,048,576 makes it unsuitable for this task.
 ### Combining the data:
-Query for cobining: [Dataexp](https://github.com/Niharika040/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/64df502f4d8c59d807cb6333c6cf856e944859eb/02.Dataexp.sql)
+Query for combining: [Dataexp](https://github.com/Niharika040/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/64df502f4d8c59d807cb6333c6cf856e944859eb/02.Dataexp.sql)
 
