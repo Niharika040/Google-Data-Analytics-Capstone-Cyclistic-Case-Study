@@ -42,3 +42,17 @@ I will use SQL to combine and clean the data to accommodate the large Cyclistic 
 ### Combining the data:
 Query for combining: [2021_Combined_data](2021_combined_data.sql)
 
+## Data Exploration
+ SQL Query : 
+ Before cleaning the data, I am familiarizing myself with the data to find the inconsistencies.
+
+Observations:
+
+1. The table outlines the column names and their corresponding data types. The ride_id column acts as the primary key.
+2. The table below displays the number of null values present in each column.
+3. Since ride_id contains no null values, we can use it to check for duplicates
+4. The started_at and ended_at columns represent the start and end times of trips in the YYYY-MM-DD hh:mm:ss UTC format. A new column, ride_length, can be created to calculate the total trip duration.
+5. Columns like day_of_week and month can be created to analyze trips across different times of the year.
+6. The member_casual column has two unique values: member and casual, representing the type of rider.
+These steps will ensure the dataset is clear.
+7. 833,064 rows have both start_station_name and start_station_id missing. These need to be removed. 892,742 rows have both end_station_name and end_station_id missing. End Coordinates: 5,858 rows have both end_lat and end_lng missing. These must be removed as well.
