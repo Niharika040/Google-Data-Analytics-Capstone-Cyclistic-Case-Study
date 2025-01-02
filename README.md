@@ -34,11 +34,11 @@ use of Cyclistic’s historical trip data to analyze and identify trends from Ja
 
 While we have access to public bike usage data, privacy regulations prevent us from linking personal information. This means we cannot directly connect pass purchases to rider demographics or specific locations.
 
-### Data OrganiZation
+### Data Organization
 The dataset comprises 12 monthly files (YYYYMM-divvy-tripdata), each containing detailed information on individual rides, such as ride ID, bike type, start/end times, station names/IDs, locations, and membership status.
 
 ## Process
-To accommodate the large Cyclistic dataset (over 5.6 million rows), we'll use BigQuery to combine and clean the data. Excel's row limit of 1,048,576 makes it unsuitable for this task.
+I will use SQL to combine and clean the data to accommodate the large Cyclistic dataset (over 5.6 million rows).
 ### Combining the data:
 Query for combining: [Dataexp](https://github.com/Niharika040/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/64df502f4d8c59d807cb6333c6cf856e944859eb/02.Dataexp.sql)
 
