@@ -26,7 +26,6 @@ Three key questions will shape our future marketing strategy:
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members
    
-I'm diving into the data to uncover how annual members and casual riders use Cyclistic bikes differently.
 
 ## Prepare
 ### Data source
