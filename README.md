@@ -22,9 +22,9 @@ Create strategies to transform casual riders into loyal members.
 
 ### Analysis question
 Three key questions will shape our future marketing strategy:
-1. What are the key differences in bike usage between annual members and casual riders?
-2. What motivates casual riders to purchase annual memberships?
-3. How can digital media be leveraged to convert casual riders into members?
+1. How do annual members and casual riders use Cyclistic bikes differently?
+2. Why would casual riders buy Cyclistic annual memberships?
+3. How can Cyclistic use digital media to influence casual riders to become members
    
 I'm diving into the data to uncover how annual members and casual riders use Cyclistic bikes differently.
 
