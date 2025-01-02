@@ -56,3 +56,13 @@ Observations:
 6. The member_casual column has two unique values: member and casual, representing the type of rider.
 These steps will ensure the dataset is clear.
 7. 833,064 rows have both start_station_name and start_station_id missing. These need to be removed. 892,742 rows have both end_station_name and end_station_id missing. End Coordinates: 5,858 rows have both end_lat and end_lng missing. These must be removed as well.
+8. start_station_id and end_station_id should be removed as they do not add value to the analysis for the current problem.
+9. While start_lat, start_lng, end_lat, and end_lng may not directly contribute to the analysis, they can be retained for visualizing the trips on a map.
+
+## Data Cleaning
+SQL Query: Data Cleaning
+
+All the rows having missing values are deleted.
+3 more columns ride_length for duration of the trip, day_of_week and month are added.
+Trips with duration less than a minute and longer than a day are excluded.
+Total 1,375,912 rows are removed in this step.
