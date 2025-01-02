@@ -40,5 +40,5 @@ The dataset comprises 12 monthly files (YYYYMM-divvy-tripdata), each containing 
 ## Process
 I will use SQL to combine and clean the data to accommodate the large Cyclistic dataset (over 5.6 million rows).
 ### Combining the data:
-Query for combining: [Dataexp](https://github.com/Niharika040/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/64df502f4d8c59d807cb6333c6cf856e944859eb/02.Dataexp.sql)
+Query for combining: [2021_Combined_data](2021_combined_data.sql)
 
