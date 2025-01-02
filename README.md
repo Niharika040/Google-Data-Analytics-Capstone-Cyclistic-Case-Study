@@ -36,13 +36,13 @@ I used Cyclistic’s historical trip data to analyze and identify trends from Ja
 The dataset comprises 12 monthly files (YYYYMM-divvy-tripdata), each containing detailed information on individual rides, such as ride ID, bike type, start/end times, station names/IDs, locations, and membership status.
 
 ## Process
-I will use SQL to combine and clean the data to accommodate the large Cyclistic dataset (over 5.6 million rows).
+I will use SQL to combine and clean the data to accommodate the large Cyclistic dataset (5,667,717 rows).
 ### Combining the data:
 Query for combining: [2021_Combined_data](2021_combined_data.sql)
 
 ## Data Exploration
  SQL Query : 
- Before cleaning the data, I am familiarizing myself with the data to find the inconsistencies.
+ Before cleaning the data, I familiarized myself with the data to find the data type and to uncover any missing values, outliers, inconsistencies, and errors in the dataset.
 
 Observations:
 
